@@ -17,7 +17,7 @@
 ## 💡 [프로젝트 소개](https://www.auto-dna.org/page/?M2_IDX=32625)
 
 ![car2](https://github.com/user-attachments/assets/6aa66e77-47f2-401d-a70f-773f433247aa)
-
+- 과학기술정보통신부 - 2024년 자율주행 인공지능 챌린지 : 신호등 인식 부문 KaKao-mobility 대표상 수상
 - "자율주행 기술개발 혁신사업"을 통해 구축한 자율주행 공개 데이터셋을 활용하여 자율주행차-인프라 연계형 AI 기술 개발
 - 주행환경에서 카메라 센서를 이용하여 신호등 인식
 
