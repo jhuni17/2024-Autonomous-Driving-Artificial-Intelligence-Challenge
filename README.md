@@ -80,4 +80,3 @@ This project is released [OpenMMLab](https://github.com/open-mmlab) / [모델 �
 
 ![image](https://github.com/user-attachments/assets/c739c8dc-16aa-4f40-80d2-900b74e33e52)
 
-## How to use
